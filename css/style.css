@@ -1,0 +1,58 @@
+header label
+{
+    float: right!important;
+    letter-spacing: 4px;
+    padding-right: 20px;
+    padding-top:20px;
+    font-size: 20px;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+header a {
+    font-family: fontawesome;
+    text-decoration: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 37px;
+    letter-spacing: 3px;
+    color: #555555;
+    display: block;
+    position: absolute;
+    top: 17px;
+    margin-left: 5px;
+}
+nav{
+    clear:right;
+    background-color: #5F5F5F;
+    width:auto;
+    height: 40px;
+    margin-top:10px;
+}
+nav ul{
+    list-style-type: none;
+    padding-top:5px;
+
+}
+nav ul li{
+    display: inline;
+    padding: 12px 10px;
+    color: white;
+    font-size: 18px;
+}
+section{
+    width:250px;
+    height: auto;
+    background-color: #F1F1F1;
+    margin-top: -16px;
+}
+section h2{
+    margin-left: 40px;
+}
+section ul{
+    list-style-type: none;
+    padding-top:0px;
+}
+section ul li{
+    padding:10px;
+    font-size: 18px;
+}
